@@ -14,7 +14,8 @@ The goal of this project is to build a **fully automated ETL pipeline** that:
 
 This project serves as a real-world demonstration of **Data Engineering**, **ETL automation**, and **BI Visualization** best practices.
 
----
+---<img width="5082" height="2025" alt="Workflow Diagram" src="https://github.com/user-attachments/assets/0719ef9f-cad8-4ba0-82d8-95464a6c9808" />
+
 
 ## 🧱 Architecture
 
