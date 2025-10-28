@@ -1,0 +1,8 @@
+# ===== Dependencies for New_Test.py =====
+pandas==2.2.3
+openai==0.27.10
+tqdm==4.66.5
+datasets==2.21.0
+openpyxl
+pendulum
+
